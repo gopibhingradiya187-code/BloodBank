@@ -57,14 +57,9 @@ I got so many mails on about 'How to change Database link and Package Name'. So,
 If you would like to contribute in this project, you are always welcome. There is no `code` avilable in the `master` branch. Please `switch` specific version and make changes there. For example, the latest dev version is: https://github.com/imShakil/BloodBank/tree/2.1
 You must need to create pull request to that specific branch to get it merged.
 
-# Support
-
-If you would like to support this project for better version, you can give some support [here](https://buymeacoffee.com/imshakil).
-
 
 Thanks
 
-Regards ~ Shakil
 
 
 
